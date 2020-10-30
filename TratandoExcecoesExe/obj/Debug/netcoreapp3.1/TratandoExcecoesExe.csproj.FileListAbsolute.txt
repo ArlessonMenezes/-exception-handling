@@ -1,0 +1,13 @@
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\bin\Debug\netcoreapp3.1\TratandoExcecoesExe.exe
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\bin\Debug\netcoreapp3.1\TratandoExcecoesExe.deps.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\bin\Debug\netcoreapp3.1\TratandoExcecoesExe.runtimeconfig.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\bin\Debug\netcoreapp3.1\TratandoExcecoesExe.runtimeconfig.dev.json
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\bin\Debug\netcoreapp3.1\TratandoExcecoesExe.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\bin\Debug\netcoreapp3.1\TratandoExcecoesExe.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\obj\Debug\netcoreapp3.1\TratandoExcecoesExe.csprojAssemblyReference.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\obj\Debug\netcoreapp3.1\TratandoExcecoesExe.AssemblyInfoInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\obj\Debug\netcoreapp3.1\TratandoExcecoesExe.AssemblyInfo.cs
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\obj\Debug\netcoreapp3.1\TratandoExcecoesExe.csproj.CoreCompileInputs.cache
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\obj\Debug\netcoreapp3.1\TratandoExcecoesExe.dll
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\obj\Debug\netcoreapp3.1\TratandoExcecoesExe.pdb
+C:\Users\Arlesson Menezes\Documents\ws-vs2019\TratandoExcecoesExe\TratandoExcecoesExe\obj\Debug\netcoreapp3.1\TratandoExcecoesExe.genruntimeconfig.cache
